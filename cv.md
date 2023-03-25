@@ -3,7 +3,7 @@
 ## Junior Frontend Developer
 
 ### Contacts:
-* Location: Khabarovsk, Russia
+* Location: Pattaya , Thailand
 * Discord: AlvaF
 * Email: [Es_@mail.ru](Es_@mail.ru)
 ***
